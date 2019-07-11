@@ -9,6 +9,12 @@ Features implemented:
 6) While loading and adding new tasks, the shake animation of the card is implemented
 7) Date and time of last activity like remove, add, move, edit is displayed in the header.
 
+4 dependencies like mentioned below are installed
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.11",
+    "react-dnd": "^8.0.3",
+    "react-dnd-html5-backend": "^8.0.3",
+
 ## Available Scripts
 
 In the project directory, you can run:
