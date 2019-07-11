@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.11",
     "react": "^16.8.6",
+    "react-dnd": "^8.0.3",
+    "react-dnd-html5-backend": "^8.0.3",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
