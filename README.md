@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Features implemented:
+1) Click on + button to add new task any column
+2) Drag items from one column to any other column to set the status like to-do, pending or done
+3) Double click on any card item to edit the text and save 
+4) Click on x on any card to remove it from any column
+5) Even after browser refresh, the data is persistent
+6) While loading and adding new tasks, the shake animation of the card is implemented
+7) Date and time of last activity like remove, add, move, edit is displayed in the header.
+
 ## Available Scripts
 
 In the project directory, you can run:
